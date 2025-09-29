@@ -44,6 +44,7 @@ Here are the key pages / components in the application:
 - **Layout / Navbar / Footer** — shared UI components  
 - **Slider / Carousel** — reusable slider components via Swiper  
 
+LiveLink: https://marwa-groceryshop.netlify.app/
 ---
 
 ## 🛠 Tech Stack
